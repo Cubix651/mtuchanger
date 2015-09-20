@@ -1,4 +1,14 @@
-MTUchanger - small program for changing MTU parameter. It uses console command and it needs root privileges.
+# MTUchanger
+
+Small program for changing MTU parameter. It uses console command and it needs root privileges.
+
+[Download latest release](https://github.com/Cubix651/mtuchanger/releases/download/v1.3/MTUchanger_v1_3.apk)
+
+![mtu1](https://cloud.githubusercontent.com/assets/8983541/9982648/84642a22-5fe3-11e5-8a88-486b14c5b9b0.png)
+![mtu2](https://cloud.githubusercontent.com/assets/8983541/9982649/84664fa0-5fe3-11e5-9af3-03bd8c8ec32c.png)
+![mtu3](https://cloud.githubusercontent.com/assets/8983541/9982651/846f80fc-5fe3-11e5-8429-8ee6c8c29ac0.png)
+![mtu4](https://cloud.githubusercontent.com/assets/8983541/9982650/846ebc26-5fe3-11e5-9f44-478ed1571e8d.png)
+![mtu5](https://cloud.githubusercontent.com/assets/8983541/9982652/8473905c-5fe3-11e5-8239-b1ddc19802f7.png)
 
 Copyright (c) 2012-2014 Jakub "Cubix651" Cisło
 http://cubix.one.pl
